@@ -1,2 +1,3 @@
-pyvirtualdisplay
+chromium-chromedriver
+pandas
 selenium
