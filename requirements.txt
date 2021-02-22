@@ -1,3 +1,2 @@
-chromium-chromedriver
 pandas
 selenium
